@@ -295,7 +295,6 @@
 					};
 					EA1F09A61DE4376C00414030 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = FPZK4WRGW7;
 						ProvisioningStyle = Automatic;
 					};
 					EA1F09C11DE43B3900414030 = {
@@ -310,6 +309,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -701,10 +701,10 @@
 			baseConfigurationReference = 7C2849B258EEA5B658C2CD2E /* Pods-WSDL2Swift.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				DEVELOPMENT_TEAM = FPZK4WRGW7;
+				DEVELOPMENT_TEAM = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -713,10 +713,10 @@
 			baseConfigurationReference = 54E07700FFB14F5BC9DE3247 /* Pods-WSDL2Swift.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				DEVELOPMENT_TEAM = FPZK4WRGW7;
+				DEVELOPMENT_TEAM = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
